@@ -20,5 +20,6 @@ from word_counter import count_words
 
 text = "Hello, world! This is a test."
 word_count = count_words(text)
+
 print(f"Number of words: {word_count}")
 ```
