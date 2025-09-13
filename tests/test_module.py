@@ -1,4 +1,4 @@
-import word_counter
+from word_counter import count_words
 
 
-print(word_counter.sum_as_string(0, 0))
+print(count_words("Good Morning Good Night"))
